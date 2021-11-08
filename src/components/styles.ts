@@ -7,12 +7,16 @@ const useStyles = makeStyles({
     padding: '1em 3em',
   },
   title: {
-    color: 'white',
-    background: '#229966',
-    padding: '1em 3em',
+    padding: '1em 0',
   },
   formField:{
-    
+    margin: '1em 0',
+  },
+  careerSpan: {
+
+  },
+  button:{
+    margin: '1em 0',
   }
 })
 
